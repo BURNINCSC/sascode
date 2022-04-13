@@ -1,3 +1,3 @@
 # sascode
 
-SAS课程代码
+Pricing Decision by SAS
